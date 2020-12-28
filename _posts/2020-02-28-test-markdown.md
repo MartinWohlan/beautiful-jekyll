@@ -26,7 +26,7 @@ Here's a useless table:
 
 How about this picture?
 
-![crepe](../assets/img/crepe.jpg){:class="img-responsive"}
+![crepe](../assets/img/crepe.jpg){: .mx-auto.d-block :}
 
 ![mm4spa-picture1](../assets/img/mm4spa-picture1.png){: .mx-auto.d-block :}
 

@@ -4,7 +4,7 @@ title: New paper released
 cover-img: /assets/img/mm4spa-picture2.jpg
 subtitle: Algorithm for event detection 
 thumbnail-img: /assets/img/mm4spa-picture3.png
-share-img: /assets/img/mm4spa-picture3.png
+share-img: /assets/img/mm4spa-picture2.jpg
 tags: [books, test]
 ---
 ## Abstract

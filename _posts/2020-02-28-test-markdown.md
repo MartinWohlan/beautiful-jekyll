@@ -26,7 +26,7 @@ Here's a useless table:
 
 How about this picture?
 
-![image-mm4spa-picture1](/assets/img/mm4spa-picture1.png) {:height="348px" width="348px"}
+![mm4spa-picture1](/assets/img/mm4spa-picture1.png) {: .mx-auto.d-block :}
 
 It can also be centered!
 

@@ -26,6 +26,8 @@ Here's a useless table:
 
 How about this picture?
 
+![crepe](/assets/img/crepe.jpg) {:class="img-responsive"}
+
 ![mm4spa-picture1](/assets/img/mm4spa-picture1.png) {: .mx-auto.d-block :}
 
 It can also be centered!

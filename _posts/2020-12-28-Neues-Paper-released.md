@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Neues Paper released
-cover-img: /assets/img/path.jpg
+title: New paper released
+cover-img: /assets/img/mm4spa-picture2.png
 subtitle: Algorithm for event detection 
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/mm4spa-picture2.png
 tags: [books, test]
 ---
 

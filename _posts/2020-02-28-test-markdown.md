@@ -26,6 +26,7 @@ Here's a useless table:
 
 How about a yummy crepe?
 
+![image-mm4spa-picture1](/assets/img/mm4spa-picture1.png){:class="img-responsive"}
 
 It can also be centered!
 

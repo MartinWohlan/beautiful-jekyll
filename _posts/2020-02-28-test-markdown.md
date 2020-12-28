@@ -24,7 +24,7 @@ Here's a useless table:
 | Two | Three | One |
 
 
-How about a yummy crepe?
+How about this?
 
 ![image-mm4spa-picture1](/assets/img/mm4spa-picture1.png)
 

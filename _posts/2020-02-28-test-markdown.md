@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sample blog post
-subtitle: possible subtitle
+subtitle: poissible subtitle
 # gh-repo: mwohlan/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 tags: [test]
@@ -26,7 +26,7 @@ Here's a useless table:
 
 How about a yummy crepe?
 
-![image-mm4spa-picture1](/assets/img/mm4spa-picture1.png){:class="img-responsive"}
+![image-mm4spa-picture1](/assets/img/mm4spa-picture1.png)
 
 It can also be centered!
 

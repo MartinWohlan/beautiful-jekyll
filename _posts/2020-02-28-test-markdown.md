@@ -24,9 +24,9 @@ Here's a useless table:
 | Two | Three | One |
 
 
-How about this?
+How about this picture?
 
-![image-mm4spa-picture1](/assets/img/mm4spa-picture1.png)
+![image-mm4spa-picture1](/assets/img/mm4spa-picture1.png) {: .mx-auto.d-block :}
 
 It can also be centered!
 

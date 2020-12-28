@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flake it till you make it
-cover-img: /assets/img/mm4spa-picture1.png
+cover-img: /assets/img/mm4spa-picture2.png
 subtitle: Excerpt from Soulshaping by Jeff Brown
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg

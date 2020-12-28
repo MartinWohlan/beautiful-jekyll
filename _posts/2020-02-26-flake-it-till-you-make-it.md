@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Flake it till you make it
+title: Neues Paper released
 cover-img: /assets/img/path.jpg
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: Algorithm for event detection 
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]

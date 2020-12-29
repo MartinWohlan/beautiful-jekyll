@@ -8,12 +8,11 @@ share-img: /assets/img/mm4spa-picture2.jpg
 tags: [books, test]
 ---
 ## Abstract
-### Introduction:
-Here is the introduction text
-### Methods:
-Here is the methods text
-### Results:
-Here is the results text
-### Discussion:
-Here is the discussion text
+**Introduction:** Here is the introduction text
+
+**Methods:** Here is the methods text
+
+**Results:** Here is the results text
+
+**Discussion:** Here is the discussion text
 

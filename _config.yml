@@ -14,7 +14,7 @@ author: Martin Wohlan
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Homesite: "link to Website"
+  Homesite: ""
   Project Partner:
     - DSHS: "dshs"
     - L3S: "l3s"

@@ -4,4 +4,4 @@ title: Kinexon GmbH
 subtitle: 
 ---
 
-Here comes a description of Kinexon GmbH
+Here will be a description of Kinexon GmbH

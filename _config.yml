@@ -8,8 +8,13 @@
 # Name of website
 title: MM4SPA
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
 # Your name to show in the footer
-author: Martin Wohlan
+author: MM4SPA
 
 # --- List of links in the navigation bar --- #
 
@@ -19,7 +24,12 @@ navbar-links:
     - DSHS: "dshs"
     - L3S: "l3s"
     - Kinexon: "kinexon"
+  Projects: "projects/featureextraction"
+  Hackathon & Congress:
+    - Hackathon: "hackathon"
+    - Congress: "congress"
   About Us: "aboutme"
+  
 
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"

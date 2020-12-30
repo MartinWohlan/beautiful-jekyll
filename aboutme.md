@@ -1,7 +1,14 @@
 ---
-layout: page
+layout: about
 title: About us
 subtitle: Everything you need to know about this project
+persons: 
+- name: Martin
+  age: 23
+  occupation: Developer
+- name: Markus
+  age: 33
+  occupation: Brother
 ---
 
 

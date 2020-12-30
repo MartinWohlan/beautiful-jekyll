@@ -17,6 +17,27 @@ layout: base
 
       {{ content }}
 
+     <!--- {% for person in page.persons %}
+      <div> {{ person.name }} {{person.age}} </div>
+      {% if person.occupation == 'Developer' %}
+      <div style="color: red;"> {{ person.occupation }}</div>
+       {% else %}
+        <div style="color: blue;"> {{ person.occupation }}</div>
+      {% endif %}
+      {% endfor %}
+
+      {% for person in site.data.angestellte %}
+      <div> {{ person.name }} {{person.age}}  </div>
+      {% if person.occupation == 'Hausmeister' %}
+      <div style="color: red;"> {{ person.occupation }}</div>
+       {% else %}
+        <div style="color: blue;"> {{ person.occupation }}</div>
+      {% endif %}
+      {% endfor %}
+
+      <div >
+        <img src="{{site.data.images[0].link}}" alt="Post thumbnail"> ---> 
+    </div>
 
       {% if page.after-content %}
         <div class="after-content">

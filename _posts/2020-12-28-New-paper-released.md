@@ -5,14 +5,13 @@ cover-img: /assets/img/mm4spa-picture2.jpg
 subtitle: Algorithm for event detection 
 thumbnail-img: /assets/img/mm4spa-picture3.png
 share-img: /assets/img/mm4spa-picture2.jpg
-tags: [books, test]
 ---
 ## Abstract
-**Introduction:** Here is the introduction text
+**Introduction:** Here will be the introduction text
 
-**Methods:** Here is the methods text
+**Methods:** Here will be the methods text
 
-**Results:** Here is the results text
+**Results:** Here will be the results text
 
-**Discussion:** Here is the discussion text
+**Discussion:** Here be the discussion text
 
